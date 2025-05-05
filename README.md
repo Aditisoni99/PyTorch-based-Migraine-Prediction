@@ -4,7 +4,9 @@ Project Motivation:
 Migraines affect millions and are often misclassified due to overlapping symptoms. In collaboration with a friend from the Communication Science department (specializing in computational EEG), we became curious about how structured symptom data and future EEG integration could assist migraine diagnosis. This project is the first step toward that vision.
 
 Dataset Overview: 
+
 The dataset contains anonymized patient records with features including:
+
 Demographics: Age, Duration, Frequency
 Symptoms: Photophobia, Phonophobia, Nausea, Vomiting, etc.
 Target: Migraine type classification (e.g., Typical aura with migraine)
