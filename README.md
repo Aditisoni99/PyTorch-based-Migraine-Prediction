@@ -1,5 +1,5 @@
 # PyTorch-based-Migraine-Prediction
-This project explores the use of deep learning to predict migraine subtypes based on patient-reported symptoms. Built in collaboration with a computational EEG researcher, our goal was to understand how structured clinical features — like nausea, photophobia, and intensity — could be used to assist diagnosis and classification of migraine types.
+This project explores the use of deep learning to predict migraine subtypes based on patient-reported symptoms. Built in collaboration with a computational EEG researcher, our goal was to understand how structured clinical features, like nausea, photophobia, and intensity, could be used to assist diagnosis and classification of migraine types.
 Project Motivation: 
 Migraines affect millions and are often misclassified due to overlapping symptoms. In collaboration with a friend from the Communication Science department (specializing in computational EEG), we became curious about how structured symptom data and future EEG integration could assist migraine diagnosis. This project is the first step toward that vision.
 
