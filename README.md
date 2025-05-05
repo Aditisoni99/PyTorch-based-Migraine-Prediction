@@ -12,20 +12,23 @@ Symptoms: Photophobia, Phonophobia, Nausea, Vomiting, etc.
 Target: Migraine type classification (e.g., Typical aura with migraine)
 
 🔬 Exploratory Data Insights:
+
 The age group 20–30 is the most affected.
 The typical aura with migraine is the most common type.
 Strong correlations between symptoms like photophobia, phonophobia, and nausea.
 
 Visualizations attached:
+
 ![image](https://github.com/user-attachments/assets/e20262c0-bccf-4451-990f-ebde7a669376)
 ![image](https://github.com/user-attachments/assets/13f6fd31-d3c9-4e56-9ae2-941ecdf3ed5f)
 ![image](https://github.com/user-attachments/assets/9fdcb979-1890-406c-9171-1fb0e925df39)
 
 Model Architecture:
+
 Built with PyTorch
-3-layer fully connected neural network
-ReLU activations, CrossEntropyLoss
-Preprocessing with Scikit-learn (StandardScaler, LabelEncoder)
+1. 3-layer fully connected neural network
+2. ReLU activations, CrossEntropyLoss
+3. Preprocessing with Scikit-learn (StandardScaler, LabelEncoder)
 
 Task: Multi-class classification of migraine types
 
